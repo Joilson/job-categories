@@ -1,4 +1,4 @@
-# Geoservice
+# Job Categories
 Just a mocked HTTP API.
 
 ## Try it

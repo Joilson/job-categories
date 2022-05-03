@@ -8,5 +8,10 @@
       "name": "Brokerage Clerks",
       "id": "43-4011"
     }
+  ],
+  "countries": [
+    "br",
+    "ca",
+    "us"
   ]
 }
